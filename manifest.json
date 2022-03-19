@@ -4,7 +4,7 @@
     "description":"Says hello to the world",
     "version":"1.0",
     "browser_action":{
-        "default_icon":"icon.png",
+        "default_icon":"hello.png",
         "default_popup":"window.html"}
        
     }
